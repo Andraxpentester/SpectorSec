@@ -38,7 +38,7 @@ class SpectraSec:
 
     def display_about_author(self):
         about_lines = [
-            "Author: John Doe",
+            "Author: Syed Abrar",
             "Nickname: BugHunter",
             "Experienced bug hunter",
             "Ethical hacker",
