@@ -35,7 +35,7 @@ SpectorSec is a powerful and comprehensive security tool designed for website vu
 1. Run the tool:
 
    ```shell
-   python main.py
+   python spectorsec.py
    ```
 
 2. Follow the on-screen prompts to enter the target website URL and choose the scanning options.
